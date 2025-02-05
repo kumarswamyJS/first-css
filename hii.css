@@ -1,0 +1,17 @@
+body {
+    text-align: left;
+    background-color: bisque;
+    font-size: x-large;
+    font-weight: bold;
+    border: 0px;
+    border: 4px black solid;}
+h1 {
+    background-color:firebrick ;
+    padding: 10px;
+    margin: 0px;
+}
+div {
+    background-color:#E5D0AC;
+    border: 0px;
+    padding: 10px;
+}

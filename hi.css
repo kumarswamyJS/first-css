@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: bisque;
+    border: 4px black solid;
+    border-width: 0px 4px 4px 4px;
+    font-size: x-large;
+    font-weight: bold;
+}
+#one {
+    background-color: #FEF9E1;
+    padding:1px 0px 20px 0px ;
+}
+.two{
+    background-color:#E5D0AC;
+    padding: 1px;
+}
+h2 {
+    background-color: #A31D1D;
+    font-weight: 600;
+}
+h1{
+    background-color: firebrick;
+}
+img{
+    padding: 25px 0px 0px 0px;
+}
+a {
+    color: black;
+    background-color: lightblue;
+    
+}
+#link {
+    margin-bottom: 10px;
+    font-size: medium;
+}
